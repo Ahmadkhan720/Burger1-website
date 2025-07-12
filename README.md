@@ -36,4 +36,4 @@ This project is open-source and free to use for personal and educational purpose
 If you like this project:
 - Give a ⭐ on GitHub  
 - Share with others  
-- Subscribe to [AK Level YouTube Channel](https://youtube.com/@AKLevel)
+- Subscribe to [AKlevel YouTube Channel](https://youtube.com/@AKLevel)
